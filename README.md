@@ -3,7 +3,7 @@
 Stack Overflow 클론코딩
 
 > 📆 개발기간: 2022.08. ~ 2022.10.09.   
-> 🔗 배포링크: http://seb39-054-deploy-test.s3-website.ap-northeast-2.amazonaws.com/
+> 🔗 배포링크: ~~http://seb39-054-deploy-test.s3-website.ap-northeast-2.amazonaws.com/~~ 2023.07.03 배포중단   
   
 ## 🙋‍♂️ 팀원 소개
 |조민우 (팀장)|염혜지 (팀원)|이혜진 (팀원)|정재진 (팀원)|조진우 (팀원)|
